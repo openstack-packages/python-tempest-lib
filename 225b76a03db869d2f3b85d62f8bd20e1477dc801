@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ae5cdf2_bdf8607d",
+        "filename": "python-tempest-lib.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2015-09-28T18:43:04Z",
+      "side": 1,
+      "message": "Could empty %changelog but that can be followup change.",
+      "revId": "225b76a03db869d2f3b85d62f8bd20e1477dc801",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
